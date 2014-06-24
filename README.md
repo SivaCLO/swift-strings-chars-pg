@@ -2,7 +2,7 @@ For more playgrounds like this, visit http://hackswift.co/playgrounds
 
 Swift Strings and Characters Playground
 =======================================
-[Open in XCode 6](https://github.com/hackswift/swift-operators-pg/archive/master.zip)
+[Open in XCode 6](https://github.com/hackswift/swift-strings-chars-pg/archive/master.zip)
 
 This covers the different operations that can be done on Swift Strings and Characters
 
